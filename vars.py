@@ -15,6 +15,6 @@ a += 5
 print(a)
 
 # String interpolation
-name = "Fart"
-print("My name is " + name + " and I live in Bum")
-print(f"My name is {name} and I live in Bum")
+name = "John"
+print("My name is " + name + " and I live on Earth")
+print(f"My name is {name} and I live on Earth")

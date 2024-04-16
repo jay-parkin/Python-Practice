@@ -35,7 +35,7 @@ def day_of_week():
     day = date.today().strftime('%A')
 
     if(day == "Wednesday"):
-        return f"It is {day} Bitches"
+        return f"It is {day}"
     
     return f"It's {day}"
 
